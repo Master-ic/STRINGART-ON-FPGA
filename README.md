@@ -1,4 +1,4 @@
-# STRINGATR-ON-FPGA
+# STRINGART-ON-FPGA
 2023-FPGA-summer-camp
 * 本次项目是2023年FPGA暑期学校项目 名称为 STRING ART ON FPGA
 * 使用的板卡为PYNQ-Z2 镜像为2.4版本  PYNQ Linux, based on Ubuntu 18.04 (GNU/Linux 4.14.0-xilinx-v2018.3 armv7l)
